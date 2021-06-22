@@ -95,7 +95,7 @@ class RegisterViewController: UIViewController {
             return
         }
         else {
-            
+            return
         }
         
     }
